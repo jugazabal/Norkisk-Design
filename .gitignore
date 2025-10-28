@@ -1,0 +1,13 @@
+# Ignore downloaded episode video files
+Episode-1-Framtiden-Ar-Har-1925-1939/*.mp4
+Episode-2-I-Skuggan-Av-Kriget-1939-1959/*.mp4
+Episode-3-Psykedeliska-Tider-1960-1979/*.mp4
+Episode-4-Betong-I-Finrummet-1980-1999/*.mp4
+Episode-5-En-Stund-Pa-Jorden-2000-2025/*.mp4
+
+# Ignore local Python virtual environment
+.venv/
+
+# Ignore any editor swap/temp files
+*~
+.vscode/
